@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:48.999856
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 日本比丘圓珍入唐求法目錄
 #+PROPERTY: CBETA_ID T55n2172
 #+PROPERTY: ID KR6s0119
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2172
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0119_T_001-1097b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2172¶
-
- (外題)日本比丘圓珍入唐求法目¶
+No. 2172¶
+(外題)日本比丘圓珍入唐求法目¶
 錄¶
 ¶
 
@@ -28,11 +27,7 @@ No.2172¶
 夾法物等。前後總計一十七事。謹具名目¶
 如後。¶
 
-毘盧遮那宗教法并圖像道具等
-:PROPERTIES:
-:head: 毘盧遮那宗教法并圖像道具等
-:END:
-¶
+* 毘盧遮那宗教法并圖像道具等¶
 
 總計教法圖像一百一十七本。一百五十¶
 八卷。道具一十事。¶
@@ -168,11 +163,7 @@ No.2172¶
   * 《求法目錄一卷》¶
 已上竝於長安城傳得。¶
 
-天台智者大師所傳法華宗教迹并碑銘等
-:PROPERTIES:
-:head: 天台智者大師所傳法華宗教迹并碑銘等
-:END:
-
+* 天台智者大師所傳法華宗教迹并碑銘等
 <pb:KR6s0119_T_001-1099a>¶
 
 總六十七本二百二十七卷。¶
@@ -414,11 +405,7 @@ No.2172¶
 <pb:KR6s0119_T_001-1101c>¶
 已上竝於福溫台越等州求得其錄零碎¶經論部帙不具又延曆寺藏闕本開元貞¶元經論等抄寫未畢不載此中在後收拾¶隨身。¶
 
-梵來法物等
-:PROPERTIES:
-:head: 梵來法物等
-:END:
-¶
+* 梵來法物等¶
 
 總漆事。¶
 
